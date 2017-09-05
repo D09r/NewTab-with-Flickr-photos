@@ -3,7 +3,7 @@
 	"manifest_version": 2,
 	"name": "NewTab with Flickr photos",
 	"description": "Personalize your Chrome new tab with Flickr photos of your favorite choice of photo tags.",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"short_name": "NewTab with Flickr photos",
     "author": "D09r",
     "homepage_url": "https://chrome.google.com/webstore/detail/fgldkaanhphenmkoplibjddpdhidkmem",
@@ -18,8 +18,7 @@
         "newtab": "newTab.html"
     },
     "permissions": [
-        "storage",
-        "bookmarks"
+        "storage"
     ],
     "background": {
         "scripts": [
